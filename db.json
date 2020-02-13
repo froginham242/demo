@@ -2,6 +2,6 @@
   "jID": "MAKA-2020",
   "jText": "This is a task to be displayed on the task card as test data. Hopefully it works. That would be good.",
   "jOwner": "Andrew",
-  "jStatus" : "In Work",
-  "jPriority" : "Critical"
+  "jStatus": "In Work",
+  "jPriority": "Critical"
 }
