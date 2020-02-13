@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "jID": "MAKA-2020",
+  "jText": "This is a task to be displayed on the task card as test data. Hopefully it works. That would be good.",
+  "jOwner": "Andrew",
+  "jStatus" : "In Work",
+  "jPriority" : "Critical"
 }
